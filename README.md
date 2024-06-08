@@ -6,7 +6,7 @@ Hey there! I'm SpudzzDev. I thrive on exploring new technologies, creating short
 
 ## My Skills
 
-### Programming Languages:
+### Programming:
 ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
 
 ### Frameworks & Tools:
