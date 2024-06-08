@@ -1,35 +1,25 @@
-# About me:
-tesyyj
+# Welcome to SpudzzDev's Profile!
 
-[![my_skills](https://skillicons.dev/icons?i=python,html,css,js,nodejs&theme=dark)](https://skillicons.dev/)
+## About Me
 
----
+Hey there! I'm SpudzzDev. I thrive on exploring new technologies, creating shortcuts, and finding innovative solutions to complex problems.
 
-<details>
-<summary>GitHub Stats:</summary>
+## My Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spudzzdev&show_icons=true&theme=dark&hide=contribs">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superfeda&theme=dark&layout=compact">
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superfeda&layout=compact&theme=dark"> - Компактная версия для статы ипользования ЯПов -->
-</p>
+### Programming Languages:
+- ![Python](https://skillicons.dev/icons?i=python)
+- ![JavaScript](https://skillicons.dev/icons?i=js)
+- ![HTML](https://skillicons.dev/icons?i=html)
+- ![CSS](https://skillicons.dev/icons?i=css)
 
-</details>
+### Frameworks & Tools:
+- ![Node.js](https://skillicons.dev/icons?i=nodejs)
+- ![Electron](https://skillicons.dev/icons?i=electron)
+- ![NW.js](https://skillicons.dev/icons?i=nwjs)
+- ![Firebase](https://skillicons.dev/icons?i=firebase)
+- ![MySQL](https://skillicons.dev/icons?i=mysql)
+- ![PHP](https://skillicons.dev/icons?i=php)
 
-<!--<link href="https://fonts.cdnfonts.com/css/minecraftia" rel="stylesheet">
+I'll continue to enhance my skills and add more to this list!
 
-<p align="center"><span style="color:#fff; font-family: 'minecraftia'; font-size: 35px">spudzzdev</span></p>
-<span style="color:#fff; font-family: 'minecraftia'; font-size: 17px">telke</span>
-
-
-<span style="color:#fff; font-family: 'minecraftia'; font-size: 23px">My Skills:</span>
-
-[![my_skills](https://skillicons.dev/icons?i=python,sqlite,discord&theme=dark)](https://skillicons.dev/)
-
-<span style="color:#fff; font-family: 'minecraftia'; font-size: 17px">skills</span>
-
-[![my_skills](https://skillicons.dev/icons?i=cpp,java&theme=dark)](https://skillicons.dev/)
-
-
-[![sk_logo](url)-->
-
+Thank you for visiting!
