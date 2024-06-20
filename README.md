@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey there! I'm SpudzzDev. I thrive on exploring new technologies, creating shortcuts, and finding innovative solutions to complex problems.
+I thrive on exploring new technologies, creating shortcuts, and finding innovative solutions to complex problems.
 
 ## My Skills
 
